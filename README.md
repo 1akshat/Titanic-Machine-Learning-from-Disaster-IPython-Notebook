@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-from-Disaster-IPython-Notebook
+# Titanic-Machine-Learning-from-Disaster
 
 
 The notebook performs exploratory data analysis on the titanic data set. The data set was downloaded from kaggle website.
